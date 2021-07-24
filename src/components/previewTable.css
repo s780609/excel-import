@@ -1,0 +1,5 @@
+/* row data */
+.ant-table-tbody > tr > td {
+    height: 5px;
+    padding: 0.5px;
+  }
